@@ -3,6 +3,7 @@
 <h3 align="center">Tôi đang là sinh viên HUFLIT</h3>
 
 ![ntc](https://github.com/user-attachments/assets/d68840c0-c0e9-4a6c-ad14-7c4e06a24b04)
+<img src="https://github.com/user-attachments/assets/d68840c0-c0e9-4a6c-ad14-7c4e06a24b04" alt="ntc" width="400"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tc0598&label=Profile%20views&color=0e75b6&style=flat" alt="tc0598" /> </p>
